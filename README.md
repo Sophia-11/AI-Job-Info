@@ -1,7 +1,26 @@
 # AI-Job-Info
 # 更新最新实习、应届互联网大厂面试经验
-## 最新更新时间： 7/22/2019 3:58:18 PM 
+*Last updated: 2019/07/28*
 
+#### Update log
+*2019/07/28* - 更新目录
+
+##
+
+## Table of Contents
+- [1. 华为、大疆、今日头条、阿里、百度、阿里、腾讯、京东、小米整体概述](https://github.com/Sophia-11/AI-Job-Info/blob/master/README.md)
+- [2. 本硕985非科班渣硕2020腾讯计算机视觉算法实习面经](https://github.com/Sophia-11/AI-Job-Info/blob/master/README.md)
+- [3. 百度计算机视觉暑期实习面经](https://github.com/Sophia-11/AI-Job-Info/blob/master/README.md)
+- [4. 京东计算机视觉实习面试](https://github.com/Sophia-11/AI-Job-Info/blob/master/README.md)
+- [5. oppo提前批 c++岗位面经](https://github.com/Sophia-11/AI-Job-Info/blob/master/README.md)
+- [6. 美的提前批Python数据挖掘工程师](https://github.com/Sophia-11/AI-Job-Info/blob/master/README.md)
+- [7.陌陌科技图像算法实习生](https://github.com/Sophia-11/AI-Job-Info/blob/master/README.md)
+
+
+- Notes
+  - [001](https://github.com/Sophia-11/AI-Job-Info/blob/master/README.md)
+
+##
 
 # 1. 华为、大疆、今日头条、阿里、百度、阿里、腾讯、京东、小米整体概述
 ## 华为：
