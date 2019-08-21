@@ -1,9 +1,11 @@
 # AI-Job-Info
 # 更新最新实习、应届互联网大厂面试经验
-*Last updated: 2019/08/07*
+*Last updated: 2019/08/21*
+
+![img](https://github.com/Sophia-11/AI-Job-Info/blob/master/img/7.png)
 
 #### Update log
-*2019/08/07* - 更新目录
+*2019/08/21* - 更新目录
 
 ##
 
