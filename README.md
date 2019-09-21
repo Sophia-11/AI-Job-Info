@@ -1,12 +1,15 @@
 # AI-Job-Info
 # 更新最新实习、应届互联网大厂面试经验
-*Last updated: 2019/09/05*
+*Last updated: 2019/09/21*
+
+##### 作者：@计算机视觉联盟、@Sophia-11、@转发这个超越妹妹、@水一水、@EternityY、@小安快跑！！、@13亿中的一挫
 
 ![img](https://github.com/Sophia-11/AI-Job-Info/blob/master/img/7.png)
 
 #### Update log
 *2019/08/21* - 更新目录
 *2019/09/05* - 增加9家单位面经
+*2019/09/21* - 更新作者信息
 
 ##
 
